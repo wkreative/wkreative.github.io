@@ -137,7 +137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WKREATIVE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">¿QUE OFRECEMOS?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header11-3\">Website</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features10-e\">Analítica Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features14-6\">Fotofrafía Profesional</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features10-e\" aria-expanded=\"false\">Video Profesional</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features10-4\">Relaciones Públicas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\" aria-expanded=\"false\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">¿QUE OFRECEMOS?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header11-3\">Website</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features10-e\">Analítica Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features14-6\">Fotofrafía Profesional</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features10-e\" aria-expanded=\"false\">Video Profesional</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-9\" aria-expanded=\"false\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -183,9 +183,9 @@
             "showButtons": true,
             "showArrow": true
           },
-          "title": "WKREATIVE &nbsp;<br>",
+          "title": "WKREATIVE &nbsp;es<br>",
           "text": "Creative Media Solutions",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONOCE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ver</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
@@ -236,7 +236,7 @@
           },
           "title": "<span style=\"line-height: 1.12em;\">¿Que conseguir con nosotros?</span><br>",
           "text": "Todo lo que necesitas para que mostra la mejor impresion de tu negocio en internet.",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2\" aria-expanded=\"false\">ResponsivO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"false\">SEO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"true\">Estrategia Digital</a></li><li class=\"nav-item\" style=\"display: block;\"></li><li class=\"nav-item\" style=\"display: block;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2\" aria-expanded=\"false\">ResponsivO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"true\">SEO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"false\">Estrategia Digital</a></li><li class=\"nav-item\" style=\"display: block;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/wkreative-responsive-1200x560-97.png",
@@ -752,7 +752,7 @@
             "showTitles": true,
             "logo": true
           },
-          "title1": "© COPYRIGHT 2016",
+          "title1": "WKREATIVE © COPYRIGHT 2016",
           "logo": {
             "image": {
               "active": true,
