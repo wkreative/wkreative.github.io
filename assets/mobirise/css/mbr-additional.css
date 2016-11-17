@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
@@ -838,7 +839,7 @@ blockquote {
 #features10-e .imgTitle {
   font-size: 20px;
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 #features10-7 .lead {
   color: #ffffff;
@@ -860,6 +861,9 @@ blockquote {
 }
 #features5-f .card-number {
   left: -20px;
+}
+#features5-f .mbr-section-text {
+  color: #333333;
 }
 #form1-9 .mbr-section-subtitle {
   text-transform: uppercase;

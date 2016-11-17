@@ -185,7 +185,7 @@
           },
           "title": "WKREATIVE &nbsp;es<br>",
           "text": "Creative Media Solutions",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ver</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header9-2\" data-toolbar=\"-mbrBtnMove\">Ver</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
@@ -458,8 +458,8 @@
             ".imgTitle": {
               "font-size": "20px",
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "subtitle1": "Bootstrap 4 has been noted",
@@ -584,6 +584,9 @@
             },
             ".card-number": {
               "left": "-20px"
+            },
+            ".mbr-section-text": {
+              "color": "#333333"
             }
           },
           "title2": "Responsive",
