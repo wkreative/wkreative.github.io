@@ -37,8 +37,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "WKREATIVE",
+        "meta_descr": "Creative Media Solutions",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
