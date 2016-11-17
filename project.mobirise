@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.8.7",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.9.0",
     "favicon": "@PROJECT_PATH@/assets/images/wkreative-estrategia-128x102-50.png",
     "noImageResize": "",
@@ -657,6 +657,51 @@
           "title1": "Build and Development",
           "caption1": "Nuestro equipo se mantiene un paso por delante de las últimas tecnologías de vanguardia con el fin de encontrar la mejor solución para su proyecto. Ya sea que su negocio requiera de una plataforma fuera de la plataforma o de un sistema a la medida adaptado únicamente a las necesidades de su negocio, nuestros expertos le guiarán en cada paso del camino.<br>Ofrecemos desarrollo de sitios web y digitales para una amplia gama de resultados, desde micro-sitios, sitios de folletos o campañas de marketing en línea a la publicación a medida completa, e-commerce o plataformas de reserva, tenemos las habilidades y experiencia para abordar su proyecto, Alcance o complejidad.<br>Somos expertos en HTML5, CSS3, Javascript, PHP y MySQL. Creemos que la elección de la tecnología puede tener un efecto en sus metas, procesos de negocio y costos en el futuro. No te tratamos como un maniquí y mantenemos los detalles técnicos ocultos de ti, ni tratamos de cegarte con jerga; Hacemos las cosas comprensibles para que pueda tomar decisiones informadas.<br>Todos nuestros sitios web son genuinamente sensibles, diseñados para ser accesibles a través de dispositivos móviles, portátiles y tabletas, para interactuar con su audiencia, sin importar cómo elijan comprometerse con usted. También utilizamos algunas de las plataformas líderes en la industria como base para el desarrollo, incluyendo Magento, WordPress, Joomla y Drupal. Al tener diferentes opciones técnicas podemos proponer las mejores soluciones independientes para sus necesidades de proyecto.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "text-transform": "uppercase",
+              "margin-top": "40px"
+            },
+            "H1": {
+              "font-size": "60px",
+              "text-align": "left"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "animated-bg1",
+          "_anchor": "animated-bg1-g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgText": "W K R E A T I V E",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#e74c3c",
+            "bgTextSize": "100",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "PRO",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>"
         },
         {
           "_styles": {

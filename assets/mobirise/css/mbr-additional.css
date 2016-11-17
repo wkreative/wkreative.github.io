@@ -865,6 +865,15 @@ blockquote {
 #features5-f .mbr-section-text {
   color: #333333;
 }
+#animated-bg1-g .display-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+#animated-bg1-g H1 {
+  font-size: 60px;
+  text-align: left;
+}
 #form1-9 .mbr-section-subtitle {
   text-transform: uppercase;
 }
