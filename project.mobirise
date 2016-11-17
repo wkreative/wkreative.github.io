@@ -183,7 +183,7 @@
             "showButtons": true,
             "showArrow": true
           },
-          "title": "WKREATIVE &nbsp;es<br>",
+          "title": "¿WKREATIVE ?<br>",
           "text": "Creative Media Solutions",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header9-2\" data-toolbar=\"-mbrBtnMove\">Ver</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
@@ -235,7 +235,7 @@
             "showTitles": true
           },
           "title": "<span style=\"line-height: 1.12em;\">¿Que conseguir con nosotros?</span><br>",
-          "text": "Todo lo que necesitas para que mostra la mejor impresion de tu negocio en internet.",
+          "text": "Todo lo que necesitas para que mostrar tu negocio en internet.",
           "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2\" aria-expanded=\"false\">ResponsivO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"true\">SEO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"false\">Estrategia Digital</a></li><li class=\"nav-item\" style=\"display: block;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\">Beautiful</a></li>",
           "media11": {
             "image": {
