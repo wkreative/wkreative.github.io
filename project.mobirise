@@ -7,7 +7,7 @@
       "title": "ColorM",
       "styling": {
         "primaryColor": "#eeeeee",
-        "buttonsColor": "#000000",
+        "buttonsColor": "#333333",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
         "infoColor": "#3498db",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.8.7",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "3.9.0",
     "favicon": "@PROJECT_PATH@/assets/images/wkreative-estrategia-128x102-50.png",
     "noImageResize": "",
@@ -149,12 +149,14 @@
             "H1": {
               "font-size": "36px",
               "font-family": "'Arvo', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i",
+              "color": "#cddc39"
             },
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#cddc39"
             },
             ".btn": {
               "font-size": "13px"
@@ -184,7 +186,7 @@
             "showArrow": true
           },
           "title": "¿WKREATIVE ?<br>",
-          "text": "Creative Media Solutions",
+          "text": "Creative Media Solutions<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header9-2\" data-toolbar=\"-mbrBtnMove\">Ver</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
@@ -206,6 +208,9 @@
             },
             ".header-text": {
               "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px"
             }
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
@@ -235,8 +240,8 @@
             "showTitles": true
           },
           "title": "<span style=\"line-height: 1.12em;\">¿Que conseguir con nosotros?</span><br>",
-          "text": "Todo lo que necesitas para que mostrar tu negocio en internet.",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2\" aria-expanded=\"false\">ResponsivO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"true\">SEO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"false\">Estrategia Digital</a></li><li class=\"nav-item\" style=\"display: block;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\">Beautiful</a></li>",
+          "text": "<b>Mobil - SEO - ED</b>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2\" aria-expanded=\"true\">Movil</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"false\">SEO</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"false\">Estrategia Digital</a></li><li class=\"nav-item\" style=\"display: block;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/wkreative-responsive-1200x560-97.png",
@@ -427,7 +432,7 @@
           "title2": "About us",
           "title1": "Servicios Digitales",
           "caption1": "Ofrecemos un servicio completo con las habilidades, experiencia y recursos para llevar su proyecto desde el concepto hasta la entrega. Desde la creación de sitios web y plataformas de comercio electrónico hasta la entrega de campañas de marketing en línea o medios sociales y aplicaciones. También contamos con un equipo de soporte dedicado que puede ayudar con el alojamiento, las actualizaciones de contenido en curso, el trabajo de desarrollo y muchas otras tareas.<br><br>Si necesita ayuda con toda su presencia digital o simplemente elementos de ella, nuestro equipo multidisciplinario se especializa en las áreas que le ayudarán a tener éxito en Online. No dude en ponerse en contacto para un chat amistoso hoy y veamos cómo podemos adaptar una solución para satisfacer sus necesidades.<br>",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">Ver más&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span></a>",
           "media1": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/wkreative-digital-600x385-92.png",
@@ -495,7 +500,7 @@
           "title2": "About us",
           "title1": "Diseño Digital",
           "caption1": "La creatividad está en el corazón de lo que hacemos. Sabemos cómo desarrollar grandes ideas y crear un diseño hermoso que funciona perfectamente en todas las plataformas digitales. Desde sitios web a móviles o comercio electrónico a las redes sociales, creamos experiencias que atraen a su audiencia y brindan por usted.<br><span style=\"font-size: 1rem; line-height: 1.85em;\">Nuestro equipo creativo produce diseño para una amplia gama de clientes y aplicaciones, tanto para uso en línea como fuera de línea. Entendemos las tecnologías y los matices del diseño para diferentes medios o dispositivos digitales y tenemos el conocimiento para ofrecer grandes experiencias de usuario, conversiones consistentes y un sólido retorno de su inversión.</span><br><span style=\"font-size: 1rem; line-height: 1.85em;\"><br></span><span style=\"font-size: 1rem; line-height: 1.85em;\">También garantizamos que su presencia digital esté integrada con su marca existente, impresión y marketing, para que pueda estar seguro de que su mensaje se transmite donde quiera que lo necesite con consistencia.</span><br><br>Categorizamos nuestros servicios de diseño en agrupaciones, pero en realidad el proceso creativo y de diseño generalmente se extiende a través de varios de estos segmentos.<br><br>~Información creativa y desarrollo de ideas<br>~Marca<br><span style=\"font-size: 1rem; line-height: 1.85em;\">~Planificación de sitios web y wireframes</span><br><span style=\"font-size: 1rem; line-height: 1.85em;\">~Experiencia del usuario y diseño de interfaz de usuario</span><br><span style=\"font-size: 1rem; line-height: 1.85em;\">~Diseño digital</span><br><span style=\"font-size: 1rem; line-height: 1.85em;\">~Creación de contenido</span><br><span style=\"font-size: 1rem; line-height: 1.85em;\">~Desarrollo Frontend</span><br>",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">Learn More &nbsp;&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span></a>",
           "media1": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/laptop-1209008-1-600x337-21.jpg",
@@ -540,7 +545,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
-            "bgColor": "#86817e",
+            "bgColor": "#cddc39",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -559,7 +564,7 @@
           "title2": "About us",
           "title1": "Estrategia Digital",
           "caption1": "¡No puedes anotar si no sabes dónde están los goles! Ya se trate de un proyecto, una campaña o todo su negocio, una estrategia digital completa mapas detallados exactamente cómo va a lograr sus objetivos en línea.<br><br>Una estrategia digital definirá sus necesidades, metas, fortalezas, debilidades, público objetivo, competencia y sus oportunidades disponibles. Se detallarán los mejores usos de la tecnología, plataformas promocionales en línea y presupuestos. También se incluirá en su estrategia un plan de cómo se implementarán, se entregarán y se mantendrán para que continúe el éxito.<br><br>La creación de una estrategia digital fuerte depende de que tengamos una comprensión profunda de su negocio o proyecto. Todo esto comienza con las conversaciones, la investigación y la asalto del cerebro y culmina en un documento en profundidad que explica exactamente cómo juntos conseguiremos sus objetivos en línea.<br><br>No tiene sentido crear una estrategia y guardarla en un cajón, necesita ser ejecutada para obtener resultados. Además de ayudarle a refinar su idea y crear una estrategia digital a medida, nuestros expertos multidisciplinarios pueden aprovechar sus conocimientos y experiencia para ejecutar y entregar su estrategia sin problemas.<br>",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">conoce más&nbsp;<span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span></a>",
           "media1": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/estrategia-digital-wkreative-1-600x333-1.png",
@@ -587,6 +592,9 @@
             },
             ".mbr-section-text": {
               "color": "#333333"
+            },
+            "SPAN": {
+              "font-size": "30px"
             }
           },
           "title2": "Responsive",
@@ -655,8 +663,45 @@
           "number1": "1",
           "subtitle1": "Bootstrap 4 has been noted",
           "title1": "Build and Development",
-          "caption1": "Nuestro equipo se mantiene un paso por delante de las últimas tecnologías de vanguardia con el fin de encontrar la mejor solución para su proyecto. Ya sea que su negocio requiera de una plataforma fuera de la plataforma o de un sistema a la medida adaptado únicamente a las necesidades de su negocio, nuestros expertos le guiarán en cada paso del camino.<br>Ofrecemos desarrollo de sitios web y digitales para una amplia gama de resultados, desde micro-sitios, sitios de folletos o campañas de marketing en línea a la publicación a medida completa, e-commerce o plataformas de reserva, tenemos las habilidades y experiencia para abordar su proyecto, Alcance o complejidad.<br>Somos expertos en HTML5, CSS3, Javascript, PHP y MySQL. Creemos que la elección de la tecnología puede tener un efecto en sus metas, procesos de negocio y costos en el futuro. No te tratamos como un maniquí y mantenemos los detalles técnicos ocultos de ti, ni tratamos de cegarte con jerga; Hacemos las cosas comprensibles para que pueda tomar decisiones informadas.<br>Todos nuestros sitios web son genuinamente sensibles, diseñados para ser accesibles a través de dispositivos móviles, portátiles y tabletas, para interactuar con su audiencia, sin importar cómo elijan comprometerse con usted. También utilizamos algunas de las plataformas líderes en la industria como base para el desarrollo, incluyendo Magento, WordPress, Joomla y Drupal. Al tener diferentes opciones técnicas podemos proponer las mejores soluciones independientes para sus necesidades de proyecto.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>"
+          "caption1": "Nuestro equipo se mantiene un paso por delante de las últimas tecnologías de vanguardia con el fin de encontrar la mejor solución para su proyecto. Ya sea que su negocio requiera de una plataforma fuera de la plataforma o de un sistema a la medida adaptado únicamente a las necesidades de su negocio, nuestros expertos le guiarán en cada paso del camino.<br>Ofrecemos desarrollo de sitios web y digitales para una amplia gama de resultados, desde micro-sitios, sitios de folletos o campañas de marketing en línea a la publicación a medida completa, e-commerce o plataformas de reserva, tenemos las habilidades y experiencia para abordar su proyecto, Alcance o complejidad.<br>Somos expertos en HTML5, CSS3, Javascript, PHP y MySQL. Creemos que la elección de la tecnología puede tener un efecto en sus metas, procesos de negocio y costos en el futuro. No te tratamos como un maniquí y mantenemos los detalles técnicos ocultos de ti, ni tratamos de cegarte con jerga; Hacemos las cosas comprensibles para que pueda tomar decisiones informadas.<br>Nuestros sitios web son genuinamente sensibles, diseñados para ser accesibles a través de dispositivos móviles, portátiles y tabletas, para interactuar con su audiencia, sin importar cómo elijan comprometerse con usted. &nbsp;Al tener diferentes opciones técnicas podemos proponer las mejores soluciones independientes para sus necesidades de proyecto.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span></a>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "progress-bar1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "progress1": "96",
+            "progress2": "100",
+            "progress3": "100",
+            "progress4": "100",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/08.jpg",
+            "bgColor": "#34495e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.85,
+            "overlayColor": "#34495e",
+            "showTitle": true,
+            "showText": false,
+            "stripedBars": true
+          },
+          "_anchor": "progress-bar1-h",
+          "title": "Barra Progreso",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem fugiat perferendis voluptates, animi cum dignissimos debitis, nam hic aspernatur cumque quaerat dolorum sed, delectus rerum omnis consequatur nulla neque temporibus quis ipsam dolor esse dolore! Commodi quidem necessitatibus nesciunt. Repellat quo dolores beatae facere provident rem magnam quidem vel autem?",
+          "title1": "web design",
+          "title2": "HTML",
+          "title3": "javascript",
+          "title4": "css"
         },
         {
           "_styles": {
@@ -667,7 +712,8 @@
             },
             "H1": {
               "font-size": "60px",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#cddc39"
             }
           },
           "alias": "colorm/components",
@@ -681,12 +727,12 @@
             "paddingBottom": "0",
             "bgText": "W K R E A T I V E",
             "bgTextStyle": "Montserrat",
-            "bgTextColor": "#e74c3c",
+            "bgTextColor": "#000000",
             "bgTextSize": "100",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#e91e63",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -736,7 +782,7 @@
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#006064",
+            "overlayColor": "#cddc39",
             "showSubtitle": false,
             "showTitle": true,
             "showText": true
@@ -774,7 +820,7 @@
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane mbr-iconfont mbr-iconfont-btn\"></span>enviar</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane mbr-iconfont mbr-iconfont-btn\"></span>enviar</a>"
         },
         {
           "_styles": {

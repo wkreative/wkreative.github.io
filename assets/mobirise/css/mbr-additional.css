@@ -91,7 +91,7 @@ textarea,
 .btn-primary {
   background-color: #eeeeee;
   border-color: #eeeeee;
-  color: #000000;
+  color: #333333;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -111,7 +111,7 @@ textarea,
 .btn-secondary {
   background-color: #9b59b6;
   border-color: #9b59b6;
-  color: #000000;
+  color: #333333;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
@@ -131,7 +131,7 @@ textarea,
 .btn-info {
   background-color: #3498db;
   border-color: #3498db;
-  color: #000000;
+  color: #333333;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -151,7 +151,7 @@ textarea,
 .btn-success {
   background-color: #2ecc71;
   border-color: #2ecc71;
-  color: #000000;
+  color: #333333;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -171,7 +171,7 @@ textarea,
 .btn-warning {
   background-color: #f1c40f;
   border-color: #f1c40f;
-  color: #000000;
+  color: #333333;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -191,7 +191,7 @@ textarea,
 .btn-danger {
   background-color: #e74c3c;
   border-color: #e74c3c;
-  color: #000000;
+  color: #333333;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -785,10 +785,12 @@ blockquote {
 #header11-3 H1 {
   font-size: 36px;
   font-family: 'Arvo', serif;
+  color: #cddc39;
 }
 #header11-3 P {
   font-family: 'Oswald', sans-serif;
   font-size: 20px;
+  color: #cddc39;
 }
 #header11-3 .btn {
   font-size: 13px;
@@ -810,6 +812,9 @@ blockquote {
 }
 #header9-2 .header-text {
   text-align: center;
+}
+#header9-2 .mbr-section-title SPAN {
+  font-size: 46px;
 }
 #features10-4 .lead {
   color: #ffffff;
@@ -865,6 +870,9 @@ blockquote {
 #features5-f .mbr-section-text {
   color: #333333;
 }
+#features5-f SPAN {
+  font-size: 30px;
+}
 #animated-bg1-g .display-1 {
   font-weight: 700;
   text-transform: uppercase;
@@ -873,6 +881,7 @@ blockquote {
 #animated-bg1-g H1 {
   font-size: 60px;
   text-align: left;
+  color: #cddc39;
 }
 #form1-9 .mbr-section-subtitle {
   text-transform: uppercase;
