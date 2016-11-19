@@ -911,7 +911,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/entrevista-a-cristbal-coln-lo-que-pas-hace-523-aos-2000x1125-19.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/entrevista-a-cristbal-coln-lo-que-pas-hace-523-aos-2000x1125-21.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": false,
             "bgVideo": {
