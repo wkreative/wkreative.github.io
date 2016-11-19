@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WKREATIVE 1",
-    "currentPage": "index.html",
+    "currentPage": "Entrevista a Cristóbal Colón Lo que pasó hace 523 años.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.8.7",
-    "uniqCompNum": 18,
+    "uniqCompNum": 26,
     "versionPublish": "3.9.0",
     "favicon": "@PROJECT_PATH@/assets/images/wkreative-estrategia-128x102-50.png",
     "noImageResize": "",
@@ -41,7 +41,8 @@
         "meta_descr": "Creative Media Solutions",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -889,6 +890,151 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>"
+        }
+      ]
+    },
+    "Entrevista a Cristóbal Colón Lo que pasó hace 523 años.html": {
+      "settings": {
+        "title": "Entrevista a Cristóbal Colón: Lo que pasó hace 523 años…",
+        "meta_descr": "Entrevista a Cristóbal Colón: Lo que pasó hace 523 años…",
+        "order": 2
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-k",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/coln-llega-a-pr-2000x1167-24.png",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "Entrevista a Cristóbal Colón: Lo que pasó hace 523 años…",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "Por:&nbsp;<b>Silverio Pérez</b>&nbsp;Nov 19, 2016"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "Todo comenzó cuando uno de los tripulantes de la carabela en la que venía Cristóbal Colón se puso un poco ansioso, pues quería llegar a tierra lo más pronto posible. Colón, que tenía malos cascos, lo mandó pa’ carajo, o sea, según el diccionario, a la plataforma colocada en la parte alta de un palo que sirve especialmente como puesto de observación y para facilitar la maniobra de las velas altas. Desde el carajo el marinero bajó entusiasmado: las costas de Puerto Rico estaban a tiro.<br>Tan pronto las naves dejaron de ser unas sombras en el horizonte  nuestros indios se plantaron por el lugar donde los primeros botes comenzaron a desembarcar. Lo que pasó entonces, se los cuento de inmediato, y de primera mano, gracias a una entrevista con Cristóbal Colón que me acaban de conceder en España a donde vine a una actividad que luego les cuento.<br><br><br>\tSucede que estoy en España y por ser recipiente de un premio que recibiré el miércoles, (ya se enterarán el miércoles) luego de una buena cata de vinos de Toro, en el Hotel Valbusenda, cerca de Zamora, me permitieron entrevistar al mismísimo Cristóbal Colón a través de una moderna tecnología que los españoles han desarrollado junto a los japoneses. En un dos por tres tenía yo, vía holograma, al mismísimo Colón frente a mí.<br><br><b>SILVERIO</b><br>\tSaludos don Cristóbal y muchas gracias por su disponiblilidad.<br><b>CRISTOBAL</b><br>\tDisponibilidad ninguna, a mi simplemente me sacaron de donde descanzaba en paz, por no sé cuántos años y aquí estoy.<br><b>SILVERIO</b><br>\tMo nombre es Silverio Pérez y soy conductor de un programa de TV en Puerto Rico.<br><b>CRISTOBAL</b><br>\tMuchas gracias pero no me importa lo que usted sea y mucho menos si conduce un… ¿qué dijo?... un programa de no sé de qué cosa… ¿Para qué me quiere?<br><b>SILVERIO</b><br>\tQusisera antes que todo felicitarle pues hoy es el día de su descubrimiento de PR hace 523 años…<br><b>CRISTOBAL</b><br>\t¿De veras hace tanto tiempo? Caramba, pues si me lo permite, y si está vivo aún me gustaría mandarle un saludito a mi amigo Jacobo Morales… De regreso del segundo viaje, vine leyéndome su libro 100 x 35… muy buenos versos.. ¿Vive aún?<br><b>SILVERIO</b><br>\tSí, y está mejor que nunca… ¿Le puedo hacer unas cuántas preguntas?<br><b>CRISTOBAL</b><br>\tBueno, siempre y cuando no tenga que ver con mi relación secreta con Isabel no hay problema.<br><b>SILVERIO</b><br>\tAh, o sea, ¿usted de cierta forma me confirma que hubo una cierta relación entre usted y la Reina Isabel Segunda?<br><b>CRISTOBAL</b><br>\tNo hombre, con la reina no… (pícaro) pero con la Isabel Presyler… la que ahora se ha casado con el esccritor ese Mario Vargas Llosa… pues hubo una que otra cosilla…<br><br><b>SILVERIO</b><br>\tEs que me interesa confirmar o desmentir si es cierto que la Reina Isabel le dio sus joyas…<br><b>CRISTOBAL</b><br>\t¿A cuáles te refieres? ¿Eres de un programa de chismes?<br><b>SILVERIO</b><br>\tA las prendas que se supone que usted empeñó para poder hacer el viaje al Nuevo Mundo.<br><b>CRISTOBAL</b><br>\tAh bueno, ella me dio unas cuantas sortijas, collares, camafeos, y otras chucherías y yo me fui a una calle en Madrid donde había un letrero bien grande que decía Mr. Cash… y allí obtuve un dinerito para financiar el viaje…<br><b>SILVERIO</b><br>\t¡Mr. Cash!<br><b>CRISTOBAL</b><br>\tAh, y también compré armas, para la defensa por si acaso aparecían corsarios ingleses. <br><b>SILVERIO</b><br>\tVamos a seguir haciendo aclaraciones históricas… ¿Salió usted del Puerto de Palos en Cádiz?<br><b>CRISTOBAL</b><br>\tSalí de un puerto donde los marineros nos entrábamos a palos, o sea, tomábamos bebidas de alto contenido de alcohol, y un día, en medio de una borrachera es que nos dio con diz que buscar una ruta más corta para la India, nada, cosa de borrachos, y nos lanzamos al mar.<br><b>SILVERIO</b><br>\t¿Pero cómo? ¿No sabían para dónde iban?<br><br><b>CRISTOBAL</b><br>\tPor las brújulas, las estrellas y gugle maps…<br><b>SILVERIO</b><br>\t¿Cooooomooo? ¿Guggle maps?<br><b>CRISTOBAL</b><br>\tEs que también el Mr Cash ese de Madrid me vendió un aparato llamado celular, o algo así, que  te daba unos mapas… y él mismo me lo programó y puso India… y nos llevó a Mayaguez… donde se hacía una cerveza riquísima…<br><b>SILVERIO</b><br>\t¡Pero eso fue en el segundo viaje!<br><b>CRISTOBAL</b><br>\t¡Cierto! Teneis razón… lo que pasa es que tan pronto salimos de las costas de Cadiz el aparato ese llamado celular perdió la señal y se fastidió el mapa y de ahí en adeante navegamos casi a la deriba…\t<br><b>SILVERIO</b><br>\tY esa incertidumbre de hacia dónde iban fue lo que provocó la casi rebelión de sus marineros que por poco lo ahorcan…<br><b>CRISTOBAL</b><br>\tNo, no… eso también es una tergiversación histórica… lo que sucedió fue que algunos disidentes cuestionaban el rumbo a la deriba que llevábamos… unos querían tomar a la izquierda, otros seguir a la derecha, y otros quedarnos como íbamos, aunque fuera a la deriba… Yo lo llevé a votación y ganó el seguir como estábamos…<br><b>SILVERIO</b><br>Así que usted entró por Mayaguez!<br><b>CRISTOBAL</b><br>¿De que vale que yo diga que fue por ahí, o por allá o por acuyá si de todas formas siempre saldrá alguien a decir que estoy equivocado? Además, ¿qué importa?, llegué y punto. Y la verdad es que ni me acuerdo. Aunque mi meta era llegar a tierra mi concentración estaba en el momento presente, en vivir mi experiencia al máximo, en el camino. Así que a dónde llegué ni sé ni me interesa saberlo. Eso es pelea de alcaldes de pueblo chiquito, a mi no me metan en eso.<br><b>SILVERIO</b><br>\tPero por favor dígame ¿qué hizo después de dar ese paso histórico y poner el primer pie en tierra?<br><b>CRISTOBAL</b><br>\tPues poner el otro… luego de tantos días en el mar no andaba bien de equilibrio.<br><b>SILVERIO</b><br>\t¿Y fue recibido por los indios?<br><b>CRISTOBAL</b><br>\tMe recibiron indios e indias con muy poca ropa. De ahí es que sale ese dicho de “la india está buena, buena, buena”.<br><b>SILVERIO</b><br>\tO sea que ya en ese tiempo había expresiones machistas como esas…<br><b>CRISTOBAL</b><br>\tAy chus… no me venga con esas mojigaterías modernas que lo que han hecho es crear ese revolú que ustedes tienen en la sociedad que ustedes llaman moderna.<br><b>SILVERIO</b><br>\tEse revolú que usted alega que nosotros tenemos comenzó un día como hoy en 1493 cuando usted llegó. Cuando usted metió las narices en esta Isla del Encanto, era del encanto de verdad, no del espanto. ¿Teníamos problemas de contaminación? No señor. Las aguas eran cristalinas y cualquiera podía tomar de ellas sin necesidad de echarle cloro. Usted pasaba por lo que hoy es Cataño y no había gases tóxicos saliendo de ninguna chimenea. En los caminos no existían los tapones; no había dimes y diretes entre caciques indios, y mucho menos problemas de corrupción en la administración de los yukayekes. Si alguien se enfermaba se llevaba al hechicero de la tribu a quien no se le ocurría jamás preguntarle a un indio sobre cuál era su plan médico o si tenía la tarjetita de la reforma. Guanina y Sotomayor tuvieron un romance y de eso jamás se habló en un programa de televisión o en una revista de farándula. No había problemas de estatus y en Vieques no estaban los Caribes bombardeando sin el consentimiento a los Taínos que allí vivían. Los indios jugaban pelota, en pelotas, y el hecho de que estuvieran en pelotas no fue explotado para una obra de teatro, además, los indios se mandaban a sí mismos sin una Junta de control Fiscal que les viniera a imponer soluciones.<br><b>CRISTOBAL</b><br>\tO sea, que yo soy el culpable de todos vuestros males… y no me agradecen el idioma y la religión…<br><b>SILVERIO</b><br>\tBueno, pero ambas cosas nos salieron bien caras…<br><b>CRISTOBAL</b><br>\tA ver explíqueme…<br><b>SILVERIO</b><br>\tUstedes, sobre todo Ponde de León, le enseñaron a rezar a nuestros indios, y les dijeron, bajen sus cabezas y cierren los ojos… y cuando terminaron de rezar y levantaron las cabezas ya no había oro en el país. Nos costó cara la religioncita esa.<br><b>CRISTOBAL</b><br>\tLas cosas siempre tienen sus costo…<br><b>SILVERIO</b><br>\tPero le agradecemos el español, el mejor idioma del mundo, sobre todo, si uno no conoce otro… además fue usted un emprendedor que no se intimidó ante lo desconocido, se lanzó en la búsqueda de sus sueños, y lo logró. ¿Cómo lo hizo don Crsitóbal?<br><b>CRISTOBAL</b><br>\tCantábamos una canción de un cantante de apellido Nogueras que decía así: Positivo, siempre positivo, pa’ adelante, pa’ alante… siempre positivo…<br><b>SILVERIO</b><br>\tHumm de ahí es que sale eso… bueno don Cristóbal gracias por esta entrevista…<br><b>CRISTOBAL</b><br>\tEspera, espera… cuéntame qué es de la vida del Amolao, el que andaba con mi cabeza pa’ arriba y pa’ abajo y finalmente me la dejó al lado de una destilería de ron y hasta la tumba me llegaba el tufo…<br><b>SILVERIO</b><br>\tNo ha estado bien de salud pero su estatua se dice que la van a poner en Arecibo…<br><b>CRISTOBAL</b><br>\tPues se los agradezco… ah, y salúdeme también al pariente de Ponce… el gobernador…<br><b>SILVERIO</b><br>\tHernández Colón…<br><b>CRISTOBAL</b><br>\tEse, ese…  ¿Sigue gobernando?<br><b>SILVERIO</b><br>\tNo, como le dije, gobierna ahora el hijo de otro que también fue gobernador.<br><b>CRISTOBAL</b><br>\tAy mijo, eso viene de atrás, cuando yo llegué a Puerto Rico, acababan de elegir a Agueybaná segundo, hijo de Agueybaná primero… Y no duden que el hijo de mi amigo Hernández colón los gobierne algún día.<br><b>SILVERIO</b><br>\t¿El Pollito?<br><b>CRISTOBAL</b><br>\tNo. El tigre. ¡Es que se lo merecen!<br><br>\tCuando le iba a contestar se venció el tiempo que me dieron para la entrevista y Colón desapareció. De inmediato transcribí lo conversado. Mi esposa me encontró dormido sobre la computadora: “Tú no sirves para catar vinos, en la segunda botella ya te había ido”, dijo. Yo le contesté, “sí, me fui pero a la entrevista con Colón”. Me miró y se echó a reír.&nbsp;",
+          "_styles": {
+            "P": {
+              "color": "#333333"
+            }
+          }
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-o",
+          "_params": {
+            "postsNumber": "10",
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        },
+        {
+          "_styles": {
+            ".btn-social": {
+              "color": "#fff",
+              "height": "60px",
+              "width": "60px",
+              "line-height": "60px",
+              "font-size": "2rem"
+            },
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/share-1-2000x2000-45.png",
+            "bgColor": "#7f8c8d",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#333333",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "Compártelo"
         }
       ]
     }

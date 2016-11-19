@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 
 
 
@@ -899,4 +900,27 @@ blockquote {
 }
 #footer4-d .mbr-section-subtitle {
   text-align: center;
+}
+
+#content5-k .mbr-section-title {
+  font-size: 30px;
+  font-family: 'Bitter', serif;
+}
+#content3-l .mbr-section-title,
+#content3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-n P {
+  color: #333333;
+}
+#social-buttons1-p .btn-social {
+  color: #fff;
+  height: 60px;
+  width: 60px;
+  line-height: 60px;
+  font-size: 2rem;
+}
+#social-buttons1-p .mbr-section-title {
+  color: #fff;
+  font-size: 24px;
 }
