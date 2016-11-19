@@ -911,7 +911,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/coln-llega-a-pr-2000x1167-24.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/entrevista-a-cristbal-coln-lo-que-pas-hace-523-aos-2000x1125-19.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1022,7 +1022,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/share-1-2000x2000-45.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/entrevista-a-cristbal-coln-lo-que-pas-hace-523-aos-2000x1125-39.jpg",
             "bgColor": "#7f8c8d",
             "bgColorRadio": false,
             "overlay": true,
