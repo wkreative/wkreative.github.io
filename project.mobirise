@@ -211,7 +211,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "46px"
+              "font-size": "30px"
             }
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
