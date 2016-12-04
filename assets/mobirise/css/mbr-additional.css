@@ -924,3 +924,108 @@ blockquote {
   color: #fff;
   font-size: 24px;
 }
+
+#menu-q .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-q .navbar-caption {
+  color: #ffffff;
+  font-family: 'Arvo', serif;
+}
+#menu-q .navbar-toggler {
+  color: #ffffff;
+}
+#menu-q .close-icon::before,
+#menu-q .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-q .link,
+#menu-q .dropdown-item {
+  color: #ffffff;
+}
+#menu-q .link {
+  font-size: 0.875rem;
+}
+#menu-q .dropdown-item,
+#menu-q .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-q .link:hover,
+#menu-q .link:focus {
+  color: #eeeeee;
+}
+#menu-q .dropdown-item:hover::before,
+#menu-q .dropdown-item:focus::before {
+  background: #eeeeee;
+}
+#menu-q .dropdown-item:hover,
+#menu-q .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-q .link[aria-expanded="true"],
+#menu-q .dropdown-menu {
+  background: #1a242f;
+}
+#menu-q .nav-dropdown-sm .link:focus,
+#menu-q .nav-dropdown-sm .link:hover,
+#menu-q .nav-dropdown-sm .dropdown-item:focus,
+#menu-q .nav-dropdown-sm .dropdown-item:hover {
+  background: #273646!important;
+}
+#menu-q .navbar,
+#menu-q .nav-dropdown-sm,
+#menu-q .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-q .nav-dropdown-sm .dropdown-menu {
+  background: #2c3e50;
+}
+#menu-q .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-q .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-q .bg-color.transparent.opened .link:hover,
+#menu-q .bg-color.transparent.opened .link:focus {
+  color: #eeeeee;
+}
+#menu-q .link[aria-expanded="true"],
+#menu-q .dropdown-item[aria-expanded="true"] {
+  color: #eeeeee!important;
+}
+#footer4-r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-s .display-1 {
+  font-weight: 700;
+}
+#header3-s .lead {
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+#header3-s .mbr-section-title {
+  font-size: 80px;
+  text-align: center;
+}
+#header3-s .mbr-section-title P {
+  font-size: 72px;
+}
+#content3-u .mbr-section-title,
+#content3-u .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-t P {
+  color: #333333;
+}
+#social-buttons1-w .btn-social {
+  color: #fff;
+  height: 60px;
+  width: 60px;
+  line-height: 60px;
+  font-size: 2rem;
+}
+#social-buttons1-w .mbr-section-title {
+  color: #fff;
+  font-size: 60px;
+}
